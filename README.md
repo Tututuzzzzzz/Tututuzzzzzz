@@ -1,5 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hoang Tho Tu. I am in Computer Science.
+My name is Hoang Tho Tu
+Computer Science.
 
 
  
