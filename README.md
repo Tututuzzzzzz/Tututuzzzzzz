@@ -1,5 +1,5 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Hoang Tho Tu. I study Computer Science.
+### Hi, I'm Tuz 👋👋👋
+##I am a Computer Science student.
 
 
  
