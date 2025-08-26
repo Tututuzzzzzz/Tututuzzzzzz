@@ -1,16 +1,16 @@
-# 👋 Xin chào, mình là Hoàng Tú  
+# 👋 Hi, I'm Hoang Tu  
 
-🎓 Sinh viên ngành **Khoa học Máy tính**  
-💻 Định hướng phát triển thành **Backend Developer (Java, Spring Boot)**  
-🌱 Luôn muốn học hỏi và kết nối với nhiều bạn bè trong cộng đồng lập trình.  
+🎓 A **Computer Science student**  
+💻 Aspiring **Backend Developer** specializing in **Java & Spring Boot**  
+🌱 Always eager to learn and connect with fellow developers.  
 
 ---
 
 ## 🌟 About Me
-- 🔭 Hiện tại đang học và xây dựng các dự án nhỏ với **Spring Boot**  
-- 📚 Tìm hiểu thêm về **Cơ sở dữ liệu**, **REST API**, **Microservices**  
-- 🤝 Mong muốn được **kết nối & học hỏi** cùng cộng đồng developer  
-- 🚀 Mục tiêu: Trở thành **Java Backend Engineer chuyên nghiệp**  
+- 🔭 Currently building small projects with **Spring Boot**  
+- 📚 Exploring **Databases**, **REST APIs**, and **Microservices**  
+- 🤝 Looking forward to **collaborating and learning** with other developers  
+- 🚀 Goal: Become a professional **Java Backend Engineer**  
 
 ---
 
@@ -27,10 +27,8 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: *your-email@example.com*  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- 🌍 Website/Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-
+- 📧 Email: *hoangthotu2192004@gmail.com*    
+ 
 ---
 
 ## 📊 GitHub Stats
@@ -38,4 +36,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tututuzzzzzz&layout=compact&theme=tokyonight)
 
 ---
-✨ *Cảm ơn bạn đã ghé thăm profile của mình! Nếu bạn cũng quan tâm đến Backend Java hoặc Spring Boot, hãy kết nối để cùng học hỏi nhé.* 🚀
+
+✨ *Thanks for visiting my profile! If you’re also passionate about Java Backend or Spring Boot, let’s connect and grow together.* 🚀
