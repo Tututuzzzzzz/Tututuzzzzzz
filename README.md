@@ -1,50 +1,41 @@
-## Hi, I'm Tuz 👋👋👋
-I am a Computer Science student.
- 
----
+# 👋 Xin chào, mình là Hoàng Tú  
 
-## 🌟 Something About Me
-- ⚡ Currently working as **DevOps Engineer**  
-- 🔭 Doing some development in **MERN Stack**  
-- 🌱 I’ve also worked on **Python 🐍**  
-- 👯 My goal: be on the top list of **Open Source Contributors**  
-- 💡 Fun fact: I’m a **Tech Enthusiast 💻**  
+🎓 Sinh viên ngành **Khoa học Máy tính**  
+💻 Định hướng phát triển thành **Backend Developer (Java, Spring Boot)**  
+🌱 Luôn muốn học hỏi và kết nối với nhiều bạn bè trong cộng đồng lập trình.  
 
 ---
 
-## 🌐 Connect with Me
-- 🌍 Website: [mumairriaz.com](https://mumairriaz.com)  
-- 🐦 Twitter: [Umair Riaz](https://twitter.com/yourtwitter)  
-- 💼 LinkedIn: [Umair Riaz](https://linkedin.com/in/yourlinkedin)  
+## 🌟 About Me
+- 🔭 Hiện tại đang học và xây dựng các dự án nhỏ với **Spring Boot**  
+- 📚 Tìm hiểu thêm về **Cơ sở dữ liệu**, **REST API**, **Microservices**  
+- 🤝 Mong muốn được **kết nối & học hỏi** cùng cộng đồng developer  
+- 🚀 Mục tiêu: Trở thành **Java Backend Engineer chuyên nghiệp**  
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tututuzzzzzz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tututuzzzzzz&layout=compact&theme=radical)
+## 🌐 Connect with Me
+- 📧 Email: *your-email@example.com*  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- 🌍 Website/Portfolio: [your-portfolio.com](https://your-portfolio.com)  
 
 ---
 
+## 📊 GitHub Stats
+![Hoang Tu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tututuzzzzzz&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tututuzzzzzz&layout=compact&theme=tokyonight)
 
- 
+---
+✨ *Cảm ơn bạn đã ghé thăm profile của mình! Nếu bạn cũng quan tâm đến Backend Java hoặc Spring Boot, hãy kết nối để cùng học hỏi nhé.* 🚀
