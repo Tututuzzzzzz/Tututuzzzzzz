@@ -2,7 +2,7 @@
 
 # ✨ Hoang Tu ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+In+Progress+%F0%9F%A4%96;Fullstack+Developer+%F0%9F%92%BB;React+%7C+Spring+Boot+%7C+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+☕;AI+Learner+🤖;Spring+Boot+%7C+React+%7C+Flutter;Deep+Learning+%7C+Image+Processing" />
 
 </div>
 
@@ -13,8 +13,9 @@
 ```yaml
 Name: Hoang Tu
 Role: Java Developer & AI Learner
+
 Focus:
-  - Javacore
+  - Java Core
   - Spring Boot
   - React / React Native
   - Flutter
