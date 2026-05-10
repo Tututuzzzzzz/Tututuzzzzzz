@@ -13,7 +13,6 @@
 ```yaml
 Name: Hoang Tu
 Role: Java Developer & AI Learner
-
 Focus:
   - Java Core
   - Spring Boot
