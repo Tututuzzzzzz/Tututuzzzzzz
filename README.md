@@ -2,7 +2,7 @@
 
 # ✨ Hoang Tu ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+☕;AI+Learner+🤖;Spring+Boot+%7C+React+%7C+Flutter;Deep+Learning+%7C+Image+Processing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+☕;Spring+Boot+Developer+🚀;AI+Learner+🤖;Deep+Learning+%7C+Image+Processing" />
 
 </div>
 
